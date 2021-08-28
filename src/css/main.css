@@ -192,7 +192,7 @@ ul.navbar-nav  a{
 }
 
 #top{
-  background: url('/src/assets/images/lit-designs.png')  no-repeat center center fixed;
+  background: url('../assets/images/lit-designs.png')  no-repeat center center fixed;
   color: #fff;
   height: 50%;
   margin: 0;
@@ -219,7 +219,7 @@ and (max-device-width: 667px)
 and (-webkit-min-device-pixel-ratio: 2) {
   #top{
     /* background: url('../assets/images/tree.png')  no-repeat center center; */
-    background: url('/src/assets/images/lit-designs.png')  no-repeat center center;
+    background: url('../assets/images/lit-designs.png')  no-repeat center center;
     color: #fff;
     height: 100%;
     margin: 0;
@@ -299,7 +299,7 @@ and (-webkit-min-device-pixel-ratio: 2) {
 /***********collaborations*******************/
 #collaborations{
 
-  background: url('/src/assets/images/lit-designs.png') no-repeat center center fixed;
+  background: url('../assets/images/lit-designs.png') no-repeat center center fixed;
   background-size: contain;
   color: #333333;
   height: auto;
@@ -397,7 +397,7 @@ and (-webkit-min-device-pixel-ratio: 2) {
 /***********ABOUT*******************/
 #about{
 
-  background:url('/src/assets/images/lit-designs.png') no-repeat center center fixed;
+  background:url('../assets/images/lit-designs.png') no-repeat center center fixed;
   background-size: contain;
   color: #333333;
   height: auto;
