@@ -192,7 +192,7 @@ ul.navbar-nav  a{
 }
 
 #top{
-  background: url('../assets/images/lit-designs.png')  no-repeat center center fixed;
+  background: url('/src/assets/images/lit-designs.png')  no-repeat center center fixed;
   color: #fff;
   height: 50%;
   margin: 0;
@@ -219,7 +219,7 @@ and (max-device-width: 667px)
 and (-webkit-min-device-pixel-ratio: 2) {
   #top{
     /* background: url('../assets/images/tree.png')  no-repeat center center; */
-    background: url('../assets/images/lit-designs.png')  no-repeat center center;
+    background: url('/src/assets/images/lit-designs.png')  no-repeat center center;
     color: #fff;
     height: 100%;
     margin: 0;
@@ -235,14 +235,6 @@ and (-webkit-min-device-pixel-ratio: 2) {
 
 }
 
-#divider {
-  background: url('../img/images/divider.png')no-repeat;
-  width: 300px;
-  height: 35px;
-  margin: 0px auto 27px auto;
-  text-shadow: 4px 4px #495949;
-  background-color: black;
-}
 
 .blurb{
   font-family: Georgia, sans-serif;
@@ -307,7 +299,7 @@ and (-webkit-min-device-pixel-ratio: 2) {
 /***********collaborations*******************/
 #collaborations{
 
-  background: url('../assets/images/lit-designs.png') no-repeat center center fixed;
+  background: url('/src/assets/images/lit-designs.png') no-repeat center center fixed;
   background-size: contain;
   color: #333333;
   height: auto;
@@ -405,7 +397,7 @@ and (-webkit-min-device-pixel-ratio: 2) {
 /***********ABOUT*******************/
 #about{
 
-  background:url('../assets/images/lit-designs.png') no-repeat center center fixed;
+  background:url('/src/assets/images/lit-designs.png') no-repeat center center fixed;
   background-size: contain;
   color: #333333;
   height: auto;
@@ -448,7 +440,6 @@ and (-webkit-min-device-pixel-ratio: 2) {
 
 /***********CONTACT*******************/
 #contact{
-  background: url('../img/images/TheElephantTree.jpg') no-repeat center center fixed;
   text-align: center;
   height: auto;
   width: 100%;
